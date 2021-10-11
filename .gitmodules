@@ -1,0 +1,3 @@
+[submodule "thirdparty/QJsonWebToken"]
+	path = thirdparty/QJsonWebToken
+	url = https://github.com/juangburgos/QJsonWebToken.git
